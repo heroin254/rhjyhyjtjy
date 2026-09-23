@@ -1,0 +1,20 @@
+{
+    "client_name": "GK Masterclass",
+    "topic": " Funny Paheliyan",
+    "language": "Hindi",
+    "target_video_minutes": 60,
+    "generate_thumbnail": true,
+    "logo_file": "logo.png",
+    "transition_sfx": "soft whoosh transition", 
+    "timer_sfx": "modern synth ticking",
+    "hook_text": "क्या आप इन सवालों का सही जवाब दे सकते हैं?",
+    "timer_seconds": 5,
+    "theme_colors": {
+        "banner_bg": [20, 30, 80, 240],
+        "progress_bar": [255, 200, 0, 255],
+        "question_text": [255, 255, 255],
+        "question_bg": [10, 10, 20, 200],
+        "option_bg": [255, 255, 255, 255],
+        "option_border": [200, 0, 0, 255]
+    }
+}
